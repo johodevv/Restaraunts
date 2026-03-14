@@ -6,7 +6,7 @@ export default function Main() {
     <main className='border-2 border-white w-full  rounded-2xl
     mt-12 p-5 text-center'>
         <div>
-            <img src="../public/images.jpeg" alt="Ovqat rasmi" className='rounded-xl' />
+            <img src="/images.jpeg" alt="Ovqat rasmi" className='rounded-xl' />
         </div>
         <h3 className='text-start mt-3'>Ovqatlarni menusini korib ovqatlarimizga buyurtma berish berishingiz mumkin yoki joy band qilishingiz mumkin</h3>
         <button className='text-center p-3 bg-[#e74409c8] rounded-2xl mt-4'>Buyurtma berish</button>
